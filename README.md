@@ -3,8 +3,6 @@ hi I'm Fab,
  I’m currently learning back-end, Java, OO, micro-services, Springboot, API rest, BD, NoSql, Sql, MongoDb, and of course a little bit about front,
  like Css, Html, Js, Angular...
  
- looking forward to collaborate with a tech company and  to improve my knowledge about development, languages and project management.
- 
  -Don't let perfect be the enemy of good
  
  <div>
