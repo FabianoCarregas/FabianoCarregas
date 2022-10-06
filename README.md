@@ -1,7 +1,6 @@
 hi I'm Fab,
 
- I’m currently learning back-end, Java, OO, micro-services, Springboot, API rest, BD, NoSql, Sql, MongoDb, and of course a little bit about front,
- like Css, Html, Js, Angular...
+ I’m currently learning and working with Java, Springboot, JSP, BD, MySql, JS, Py and maybe something else X)
  
  -Don't let perfect be the enemy of good
  
